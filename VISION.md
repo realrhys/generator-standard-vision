@@ -6,7 +6,7 @@
 - [Goals](#goals)
 - [About](#about)
 - [What It Does Not Do](#what-it-does-not-do)
-- [Setting Expectations](#setting expectations)
+- [Setting Expectations](#setting-expectations)
 
 ## Mantra
 Projects must provide vision.
