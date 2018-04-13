@@ -1,0 +1,52 @@
+{
+  "name": "generator-standard-vision",
+  "version": "1.0.3",
+  "description": "Scaffold out a Standard Vision",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/realrhys/generator-standard-vision.git"
+  },
+  "homepage": "https://github.com/realrhys/generator-standard-vision",
+  "bugs": "https://github.com/realrhys/generator-standard-vision.git/issues",
+  "author": {
+    "name": "Rhys Parry",
+    "email": "rhys.personal@gmail.com"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "standard && ava"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "plugin",
+    "boilerplate",
+    "template",
+    "scaffold",
+    "vision",
+    "standard"
+  ],
+  "dependencies": {
+    "underscore.string": "^3.0.3",
+    "yeoman-environment": "^1.6.1",
+    "yeoman-generator": "^0.22.1"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "babel-eslint": "^5.0.0-beta6",
+    "pify": "^2.2.0",
+    "standard": "^5.4.1",
+    "yeoman-assert": "^2.0.0",
+    "yeoman-test": "^1.0.0"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "app/templates/"
+    ]
+  },
+  "coordinates": [
+    45.5191807,
+    -73.5789459
+  ]
+}
