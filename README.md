@@ -53,7 +53,7 @@ This will write a file, `vision.md`, to the local directory.
 
 ## Contribute
 
-See [the contribute file](contribute.md)!
+See [the code of conduct file](CODE_OF_CONDUCT.md)!
 
 PRs accepted.
 
